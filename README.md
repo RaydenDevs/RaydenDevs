@@ -20,10 +20,10 @@
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) 
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) 
 
-<!-- ## GitHub Stats:
+## GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=RaydenDevs&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=RaydenDevs&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaydenDevs&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaydenDevs&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
   ## 💰 You can help me by Donating
   <a href="https://trakteer.id/rayden_gaze"><img src="https://edge-cdn.trakteer.id/images/mix/navbar-logo.png?v=14-05-2025" width="17.5%" alt="Trakteer"></img></a>
