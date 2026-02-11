@@ -15,8 +15,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaydenDevs&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
   ## 💰 You can help me by Donating
-  <a href="https://trakteer.id/rayden_gaze"><img src="https://edge-cdn.trakteer.id/images/mix/navbar-logo.png?v=14-05-2025" width="17%" alt="Trakteer"></img></a>
-  <a href="https://patreon.com/RaydenViz"><img src="https://www.nea.com/_next/image?url=https%3A%2F%2Fstatamic.nea.com%2Fassets%2Fimages%2Fportfolio-import%2FPatreon_2023.png&w=3840&q=75" width="17%" alt="Patreon"></img></a>
+  <a href="https://trakteer.id/rayden_gaze"><img src="https://edge-cdn.trakteer.id/images/mix/navbar-logo.png?v=14-05-2025" width="17.5%" alt="Trakteer"></img></a>
+  <a href="https://patreon.com/RaydenViz"><img src="https://www.nea.com/_next/image?url=https%3A%2F%2Fstatamic.nea.com%2Fassets%2Fimages%2Fportfolio-import%2FPatreon_2023.png&w=3840&q=75" width="17.5%" alt="Patreon"></img></a>
   
 <!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RaydenDevs&theme=dark&no-frame=false&no-bg=true&margin-w=4)
