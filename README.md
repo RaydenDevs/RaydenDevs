@@ -19,7 +19,8 @@
 [![](https://visitcount.itsvg.in/api?id=RaydenDevs&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/RaydenViz) 
+  [![Patreon](https://cdn.prod.website-files.com/64c7a317aea92912392c0420/6733a855305543fc7eca757c_Patreon-Logo.png)](https://patreon.com/RaydenViz) 
+  [![Trakteer](https://edge-cdn.trakteer.id/images/mix/navbar-logo.png?v=14-05-2025)](https://trakteer.id/rayden_gaze) 
 
-  
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
