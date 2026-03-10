@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎨 Digital Designer || Beginner Game Developer 🎮
+🎨 Digital Designer || Beginner Game Dev 🎮
 
 ## Socials:
 <a href="https://instagram.com/rayden.viz"><img src="https://cdn.pixabay.com/photo/2021/03/02/12/03/instagram-6062238_1280.png" width="10%" alt="Instagram"></img></a>
